@@ -318,13 +318,14 @@ p {
     .six,
     .seven,
     .eight{
-        
-            width: 100%;
+        font-weight: bold;
+        width: 100%;
             
     
             
     }
-    .nine{
+    .nine{ 
+        font-weight: bold;
         grid-column: 1 / 4;
         grid-row: 8 / 9;
         background-color: rgb(116, 115, 113);
