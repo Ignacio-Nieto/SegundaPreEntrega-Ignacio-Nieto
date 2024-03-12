@@ -15,11 +15,11 @@
 
     .fondo3-container p{
             font-size: 16px;
-            max-width: 80%; 
+            max-width: 600px; 
             position:static;
-            top: 100%;
-            left: 100%;
-            transform: translate(0%, -200%);
+            top: 50%;
+            left: 50%;
+            transform: translate(0%, -300%);
             
         }
 
