@@ -121,9 +121,8 @@ footer {
 }
 
 .contact__title {
-  font-size: 100px;
+  font-size: 2.5rem;
   text-decoration: none;
-  font-weight: 400;
   margin-bottom: 70px;
   text-transform: uppercase;
 }
@@ -195,7 +194,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
   .contact__title {
-    font-size: 24px;
+    font-size: 1.2rem;
     text-align: center;
   }
   .contact__label {
@@ -228,7 +227,7 @@ footer {
 }
 @media only screen and (max-width: 768px) {
   .contact__title {
-    font-size: 24px;
+    font-size: 1.2rem;
     text-align: center;
   }
   .contact__label {
@@ -654,7 +653,7 @@ footer {
 }
 
 .fondo3-container p {
-  font-size: 1.1rem;
+  font-size: 1rem;
   max-width: 80%;
   position: absolute;
   top: 50%;
