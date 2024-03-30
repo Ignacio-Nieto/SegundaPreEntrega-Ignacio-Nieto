@@ -501,6 +501,7 @@ footer {
     margin: 0 auto;
   }
   .img-intro {
+
     width: auto;
     height: 500px;
   }
@@ -653,7 +654,7 @@ footer {
 }
 
 .fondo3-container p {
-  font-size: 2vw;
+  font-size: 1.1rem;
   max-width: 80%;
   position: absolute;
   top: 50%;
