@@ -48,10 +48,12 @@
 @media only screen and (max-width: 767px) {
     .contenedorFondo2 {
     text-align: center;
+    height: 900px;
     }
 
     .fondo2 {
-    height: 800px;
+    height:900px;
+    display: block;
     }
 
     .SAP, .boreal, .humands {
